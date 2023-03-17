@@ -17,6 +17,7 @@ public class AutomationPracticeFormTests {
         Configuration.holdBrowserOpen = true;
     }
 
+
     @Test
     void fillFormTest() {
         String name = "Artem";
